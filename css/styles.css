@@ -151,7 +151,7 @@ p {
   text-decoration: none;
 }
 
-a {
+.footer-link {
   color: #11999E;
   font-family: 'Monserrat', sans-serif;
   margin: 10px 20px;
