@@ -1,0 +1,1 @@
+Yordan Kostov's personal blog!
