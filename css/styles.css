@@ -159,7 +159,7 @@ p {
   text-decoration: none;
 }
 
-a:hover {
+.footer-link:hover {
   color: #EAF6F6;
 }
 
@@ -175,4 +175,14 @@ a:hover {
 
 #py-title {
   margin-top: -3%
+}
+
+#stack {
+  color: #11999E;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+#stack-text {
+  margin-bottom: -3%;
 }
