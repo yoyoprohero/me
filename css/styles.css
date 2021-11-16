@@ -186,3 +186,8 @@ p {
 #stack-text {
   margin-bottom: -3%;
 }
+
+#dimitar {
+  border-radius: 30% 30%;
+  max-width: 17%;
+}
